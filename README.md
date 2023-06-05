@@ -60,3 +60,16 @@ plt.show()
 
 ```
 ##OUTPUT:
+##DATA
+![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/818afcdf-9bd6-4030-826c-9f4096fae267)
+
+![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/59890bc2-692e-4ddd-80fc-15370f10af9f)
+
+![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/f13d3bdb-caf1-432c-939d-c610f877e53b)
+
+
+
+
+![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/9b46f476-4d3d-4a71-8398-3a77b2ecaa89)
+
+
