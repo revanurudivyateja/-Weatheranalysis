@@ -69,7 +69,7 @@ DATA
 
 ![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/f13d3bdb-caf1-432c-939d-c610f877e53b)
 
-
+```
 The data to be plotted:
 
 [[11 23 46 91 90 57 86 49 40 93]
@@ -82,7 +82,7 @@ The data to be plotted:
  [ 5  1 88 54 29 61 68  5 80 30]
  [49 38 43 12 78 35 72 75 29 38]
  [35 53 63 63 26 66 79 61 32 57]]
-
+```
 
 ![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/9b46f476-4d3d-4a71-8398-3a77b2ecaa89)
 
