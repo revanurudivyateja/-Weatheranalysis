@@ -62,6 +62,51 @@ plt.show()
 OUTPUT:
 
 DATA
+```
+executed in the current browser session. Please rerun this cell to enable.
+Saving FlightInformation.csv to FlightInformation.csv
+           Airline Date_of_Journey    Source Destination  \
+0           IndiGo      24/03/2019  Banglore   New Delhi   
+1        Air India       1/05/2019   Kolkata    Banglore   
+2      Jet Airways       9/06/2019     Delhi      Cochin   
+3           IndiGo      12/05/2019   Kolkata    Banglore   
+4           IndiGo      01/03/2019  Banglore   New Delhi   
+...            ...             ...       ...         ...   
+10678     Air Asia       9/04/2019   Kolkata    Banglore   
+10679    Air India      27/04/2019   Kolkata    Banglore   
+10680  Jet Airways      27/04/2019  Banglore       Delhi   
+10681      Vistara      01/03/2019  Banglore   New Delhi   
+10682    Air India       9/05/2019     Delhi      Cochin   
+
+                       Route Dep_Time  Arrival_Time Duration Total_Stops  \
+0                  BLR → DEL    22:20  01:10 22 Mar   2h 50m    non-stop   
+1      CCU → IXR → BBI → BLR    05:50         13:15   7h 25m     2 stops   
+2      DEL → LKO → BOM → COK    09:25  04:25 10 Jun      19h     2 stops   
+3            CCU → NAG → BLR    18:05         23:30   5h 25m      1 stop   
+4            BLR → NAG → DEL    16:50         21:35   4h 45m      1 stop   
+...                      ...      ...           ...      ...         ...   
+10678              CCU → BLR    19:55         22:25   2h 30m    non-stop   
+10679              CCU → BLR    20:45         23:20   2h 35m    non-stop   
+10680              BLR → DEL    08:20         11:20       3h    non-stop   
+10681              BLR → DEL    11:30         14:10   2h 40m    non-stop   
+10682  DEL → GOI → BOM → COK    10:55         19:15   8h 20m     2 stops   
+
+      Additional_Info  Price  
+0             No info   3897  
+1             No info   7662  
+2             No info  13882  
+3             No info   6218  
+4             No info  13302  
+...               ...    ...  
+10678         No info   4107  
+10679         No info   4145  
+10680         No info   7229  
+10681         No info  12648  
+10682         No info  11753  
+
+[10683 rows x 11 columns]
+```
+
 ![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/818afcdf-9bd6-4030-826c-9f4096fae267)
 
 ![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/59890bc2-692e-4ddd-80fc-15370f10af9f)
