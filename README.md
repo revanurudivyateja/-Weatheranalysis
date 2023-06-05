@@ -130,6 +130,8 @@ The data to be plotted:
 ```
 
 ![download](https://github.com/revanurudivyateja/EXPNO10/assets/129148660/9b46f476-4d3d-4a71-8398-3a77b2ecaa89)
+
+
 RESULT:
 
 Hence Data Science Process on Complex Dataset  successfully completed program
